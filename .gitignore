@@ -2,6 +2,8 @@
 **/.DS_Store
 .DS_Store
 
-node_modules
+HospitalApp/node_modules
+PharmacyApp/node_modules
+ProviderApp/node_modules
 npm-debug.log
 .npm
